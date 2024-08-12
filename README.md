@@ -6,11 +6,11 @@ This repository serves as the umbrella for the full-stack Todo Project Manager a
 
 ### Frontend
 - **Technology**: Angular
-- **Repository**: [Frontend Repository](https://github.com/your-username/frontend-repo)
+- **Repository**: [Frontend Repository](https://github.com/ashishs1460/ProjectTodoManager-Frontend.git)
 
 ### Backend
 - **Technology**: Spring Boot
-- **Repository**: [Backend Repository](https://github.com/your-username/backend-repo)
+- **Repository**: [Backend Repository](https://github.com/ashishs1460/ProjectTodoManager-Backend.git)
 
 ## 📊 Database Design
 ![Database Design](ToDo_DB_Design.png)
@@ -19,7 +19,7 @@ This repository serves as the umbrella for the full-stack Todo Project Manager a
 You can view the live demo of the project here: [Live Demo](https://project-todo-manager-frontend.vercel.app/)
 
 ## 📹 Demo Video
-Check out this video: [Demo Video](https://youtu.be/ChgvZYH7XKU)
+Check out this video: [Demo Video](https://www.youtube.com/watch?v=A4_44Nd82wM)
 
 ## 🛠️ Setup Instructions to Run Locally
 
@@ -39,10 +39,10 @@ Check out this video: [Demo Video](https://youtu.be/ChgvZYH7XKU)
 - Use these credentials in the backend `application.yaml` file.
 
 4. **Install Dependencies & Run**:  
-Navigate to the project directory and run:
+- Navigate to the project directory and run:
 `npm install`
 `ng serve`
-The frontend application will be up and running.
+- The frontend application will be up and running.
 
 ### Backend
 
