@@ -28,8 +28,8 @@ Check out this video: [Demo Video](https://www.youtube.com/watch?v=A4_44Nd82wM)
 1. **Clone the Frontend Repository**:  
 
 2. **Update URLs**:  
-- Replace the URLs in `http-token-interceptor` with your localhost URL.
-- Update the URL in `GistService` (`backendOAuthUrl`) with your local backend URL.
+- Replace the URLs in `http-token-interceptor` with your backend localhost URL.
+- Update the URL in `GistService` (`backendOAuthUrl`) with your backend local backend URL.
 - Inside the `getGithubToken` method, replace the `redirectUri` with your frontend local URL.
 - In `ProductDetailsComponent`, update the `redirectUri` in the `exportAsGist()` method with your frontend local URL.
 
