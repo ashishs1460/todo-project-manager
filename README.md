@@ -2,8 +2,9 @@
 ![Alt text](ToDo_DB_Design.png)
 
 ## Live Demo
+You can view the live demo of the project here: [Live Demo](https://project-todo-manager-frontend.vercel.app/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ChgvZYH7XKU" frameborder="0" allowfullscreen></iframe>
+
 ## Demo Video
-
 Check out this video: (https://youtu.be/ChgvZYH7XKU)
+
